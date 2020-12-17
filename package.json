@@ -1,5 +1,5 @@
 {
-  "name": "rn-echarts",
+  "name": "@boisduval/rn-echarts",
   "version": "1.0.0",
   "description": "echarts for react-native",
   "main": "./src/index.js",
